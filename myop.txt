@@ -1,0 +1,8 @@
+Add two integers: 13
+Add three integers: 29
+Add two doubles: 9.9
+Name: unknown, Age: 0
+Name: Siddharth, Age: 18
+Name: Siddharth, Age: 18
+Student s4 details (reference to s2):
+Name: Siddharth, Age: 18
