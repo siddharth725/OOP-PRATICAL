@@ -1,0 +1,17 @@
+ConcatenationHello World
+Length of str1:5
+Character at index 1:e
+Substring of str2(0-3):Wor
+Equals? str1 and atr2:false
+Uppercase str1:HELLO
+Lowercase str1:hello
+Square root of a:4.0
+a raised to b:28526.20085808741
+Max of a and b:16.0
+Min of a and b:3.7
+Random number (0-1):0.7695149860586705
+Random number(10-20):19.576303239808716
+Random number(1-100):85.14116623675078
+Ceil of b:4.0
+Floor of b:3.0
+Round of b:4

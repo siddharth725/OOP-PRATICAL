@@ -1,0 +1,8 @@
+Arithmatic Promotion Result:15
+x+y=34
+x-y=26
+x*y=120
+x/y=7
+x%y=2
+addition:12
+Multiplication:24
